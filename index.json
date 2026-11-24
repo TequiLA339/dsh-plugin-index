@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Theater board plugins",
+    "zh": "战区看板插件"
+  },
+  "plugins": [
+    {
+      "name": "dsh-theater-board",
+      "title": {
+        "en": "Theater Board",
+        "zh": "战区看板"
+      },
+      "description": {
+        "en": "Local theater sales dashboard inside DeepSeek Harness, with read-only board query tools.",
+        "zh": "在 DeepSeek Harness 中打开本机战区经营看板（看板 / 更新数据 / 历史版本），并提供只读看板查询工具。"
+      },
+      "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiNhYTM0M2UiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMTIiIHk9IjEyIiB3aWR0aD0iMTciIGhlaWdodD0iMjIiIHJ4PSIzIi8+PHJlY3QgeD0iMzUiIHk9IjEyIiB3aWR0aD0iMTciIGhlaWdodD0iMTIiIHJ4PSIzIi8+PHJlY3QgeD0iMzUiIHk9IjMwIiB3aWR0aD0iMTciIGhlaWdodD0iMjIiIHJ4PSIzIi8+PHJlY3QgeD0iMTIiIHk9IjQwIiB3aWR0aD0iMTciIGhlaWdodD0iMTIiIHJ4PSIzIi8+PC9nPjwvc3ZnPgo=",
+      "author": "战区看板项目",
+      "repository": {
+        "url": "https://github.com/TequiLA339/dsh-theater-board"
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1795542542,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/TequiLA339/dsh-theater-board",
+            "commit": "1bfe789ddf7856d6137d79b8431267ff91b689b1"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.5 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}
