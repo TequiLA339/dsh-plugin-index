@@ -22,12 +22,12 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "publishTimestamp": 1795542542,
+          "version": "0.1.3",
+          "publishTimestamp": 1795584980,
           "source": {
             "type": "git",
             "url": "https://github.com/TequiLA339/dsh-theater-board",
-            "commit": "1bfe789ddf7856d6137d79b8431267ff91b689b1"
+            "commit": "61dc9245867ef24e9d1a5b294bd900227821158f"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.5 <0.3.0"
