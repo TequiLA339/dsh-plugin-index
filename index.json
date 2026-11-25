@@ -1,14 +1,14 @@
 {
   "format": 1,
   "title": {
-    "en": "Theater board plugins",
+    "en": "DSH Data Dashboard plugins",
     "zh": "战区看板插件"
   },
   "plugins": [
     {
-      "name": "dsh-theater-board",
+      "name": "dsh-data-dashboard",
       "title": {
-        "en": "Theater Board",
+        "en": "DSH Data Dashboard",
         "zh": "战区看板"
       },
       "description": {
@@ -17,17 +17,16 @@
       },
       "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiNhYTM0M2UiLz48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMTIiIHk9IjEyIiB3aWR0aD0iMTciIGhlaWdodD0iMjIiIHJ4PSIzIi8+PHJlY3QgeD0iMzUiIHk9IjEyIiB3aWR0aD0iMTciIGhlaWdodD0iMTIiIHJ4PSIzIi8+PHJlY3QgeD0iMzUiIHk9IjMwIiB3aWR0aD0iMTciIGhlaWdodD0iMjIiIHJ4PSIzIi8+PHJlY3QgeD0iMTIiIHk9IjQwIiB3aWR0aD0iMTciIGhlaWdodD0iMTIiIHJ4PSIzIi8+PC9nPjwvc3ZnPgo=",
       "author": "战区看板项目",
+      "homepage": "https://github.com/TequiLA339/dsh-data-dashboard#readme",
       "repository": {
-        "url": "https://github.com/TequiLA339/dsh-theater-board"
+        "url": "https://github.com/TequiLA339/dsh-data-dashboard"
       },
       "versions": [
         {
-          "version": "0.1.3",
-          "publishTimestamp": 1795584980,
+          "version": "0.1.4",
+          "publishTimestamp": 1795588310,
           "source": {
-            "type": "git",
-            "url": "https://github.com/TequiLA339/dsh-theater-board",
-            "commit": "61dc9245867ef24e9d1a5b294bd900227821158f"
+            "type": "npm"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.5 <0.3.0"
